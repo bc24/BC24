@@ -15,11 +15,21 @@
 
 ### Über mich
 
-- Seit 2001 baue ich Websites – angefangen als Autodidakt, heute selbstständig mit **Panzer IT**
+- Seit 2001 baue ich Websites – angefangen als Autodidakt, seit 2023 selbstständig mit **Panzer IT**
 - Über 20 Web-Projekte gestartet, 7 Domains aktiv – alles im Alleingang
-- Schwerpunkte: **WordPress, PHP, JavaScript, MySQL**, Linux-Server, Automatisierung mit **n8n** und **Telegram-Bots**
+- Schwerpunkte: **WordPress, PHP, JavaScript, MySQL**, Linux-Server, Netzwerktechnik & IT-Sicherheit, Automatisierung mit **n8n** und **Telegram-Bots**
 - Aktuell: **Flutter**-App für die Bremer Community und KI-gestützte Entwicklung mit **Claude Code**
 - Nebenbei: Musik unter dem Namen **DJ-Frankus** (Rap, Hardstyle, Techno)
+
+### Werdegang
+
+| Zeitraum | Station |
+|---|---|
+| seit 2023 | **Selbstständiger IT-Spezialist – Panzer IT, Bremen** · Websites mit WordPress & PHP für KMU, IT-Lösungen, Netzwerk & IT-Sicherheit, Schulungen |
+| 2017 – 2022 | **Umschulung Fachinformatiker Anwendungsentwicklung** – cbm GmbH, Bremen |
+| 2015 – 2017 | **Umschulung Fachinformatiker Systemintegration** – IBB Bremen · Praktika: Desktop-Virtualisierung in VMware-Umgebung, Hosting-Umgebung für eine SaaS-Anwendung, IP-Kamerasysteme |
+| 2013 – 2015 | Selbststudium Programmiersprachen & IT-Onlinekurse |
+| seit 2001 | Eigene Web-Projekte als Autodidakt |
 
 ### Plattformen, die ich betreibe
 
