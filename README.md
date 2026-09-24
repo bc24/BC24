@@ -44,14 +44,41 @@
 
 ### Web-Apps & Spiele
 
+Selbst entwickelt und live auf meinem Server – der Code liegt in privaten Repos.
+
 | Projekt | Beschreibung |
 |---|---|
-| [Bremer Miner](https://panzerit.de/bremer-miner) | Clicker-Spiel mit Bremer Flair |
-| [Franks Käsekästchen](https://panzerit.de/franks-kaesekaestchen) | Multiplayer-Punktspiel im Browser |
-| [Unendliche Geschichte](https://panzerit.de/unendliche_geschichte) | Kollaboratives Schreiben mit Rangliste & Statistiken |
-| [Tarif-Finder](https://panzerit.de/tarif-finder) | Vergleichsportal für Versicherungen & Tarife |
-| [Lohnabrechnung](https://panzerit.de/lohnabrechnung) | Brutto/Netto-Tracker Monat für Monat |
+| [Spielearena](https://frank-panzer.de/projekte/spiele/) | Schach, Dame, Poker, Mau-Mau & mehr in Echtzeit – mit Chat und Bestenliste |
+| [Bremer Miner](https://frank-panzer.de/projekte/bremer-miner/) | Clicker-Spiel mit Bremer Flair |
+| [Franks Käsekästchen](https://frank-panzer.de/projekte/franks-kaesekaestchen/) | Multiplayer-Punktspiel im Browser |
+| [Unendliche Geschichte](https://frank-panzer.de/projekte/unendliche_geschichte/) | Kollaboratives Schreiben mit Rangliste & Statistiken |
+| [Franks Poesiealbum](https://frank-panzer.de/projekte/poesiealbum/) | Digitales Poesiealbum für Einträge von Freunden und Familie |
+| [Trockenheld](https://frank-panzer.de/projekte/trockenheld/) | Web-App-Challenge ohne Alkohol: Check-ins, Streaks, Level |
+| [TechDeals24](https://frank-panzer.de/projekte/tech-deals-24/) | Täglich aktualisierte MediaMarkt-Angebote |
+| [Tarif-Finder](https://frank-panzer.de/projekte/tarif-finder/) | Vergleichsportal für Versicherungen & Tarife |
+| [LohnTrack](https://frank-panzer.de/projekte/lohnabrechnung/) | Brutto/Netto-Tracker Monat für Monat |
+| [Social Media Manager](https://frank-panzer.de/projekte/social-media/) | Internes Tool zur Verwaltung von Social-Media-Kanälen |
 | [Veranstaltungen Bremen](https://panzerit.de/veranstaltungen-Bremen) | Event-Übersicht für Bremen · [Code](https://github.com/bc24/veranstaltungen-Bremen) |
+
+### Open-Source-Vorlagen
+
+| Repo | Beschreibung |
+|---|---|
+| [wp-oeffnungszeiten](https://github.com/bc24/wp-oeffnungszeiten) | WordPress-Plugin: Öffnungszeiten per Shortcode, „Jetzt geöffnet“-Status, Schema.org für Google |
+| [n8n-vorlagen](https://github.com/bc24/n8n-vorlagen) | Importierbare n8n-Workflows: Guten-Morgen-Bot, RSS → Telegram, Kontaktformular → Telegram |
+| [telegram-bot-php](https://github.com/bc24/telegram-bot-php) | Telegram-Bot-Vorlage in reinem PHP mit Webhook, Cron und Ruhezeiten |
+
+### Neueste Blogartikel
+
+<!-- BLOG-START -->
+- [Blogreise.de — großes Update mit 5 neuen Features & 53 Städten](https://frank-panzer.de/blog/blogreise-update/) · 04.06.2026
+- [6 Wochen Lieferzeit bei POCO — was geht da eigentlich ab?](https://frank-panzer.de/blog/poco-waschmaschine/) · 04.06.2026
+- [Bremer Community levelt auf — PHP 8.4 & Tailwind CSS](https://frank-panzer.de/blog/bremer-community-update/) · 04.06.2026
+- [okurs.de — Mathe-Nachhilfe online, 4,8★ bei 2.400+ Teilnehmern](https://frank-panzer.de/blog/okurs-de/) · 04.06.2026
+- [Die Unendliche Geschichte — gemeinsam schreiben, ohne Ende](https://frank-panzer.de/blog/unendliche-geschichte/) · 04.06.2026
+<!-- BLOG-ENDE -->
+
+➜ Alle Artikel auf [frank-panzer.de/blog](https://frank-panzer.de/blog/)
 
 ### Tech-Stack
 
